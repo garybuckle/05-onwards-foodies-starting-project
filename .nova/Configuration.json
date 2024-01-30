@@ -1,13 +1,17 @@
 {
   "deno.enable" : false,
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "javascript"
+    "javascript",
+    "css"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/page.js",
     "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/layout.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/layout.js",
     "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/page.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header.js"
-  ]
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/main-header.js",
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/main-header-background.js",
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/main-header-background.module.css"
+  ],
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "localhost:3000"
 }
