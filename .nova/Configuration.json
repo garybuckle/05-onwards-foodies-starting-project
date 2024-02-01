@@ -1,14 +1,11 @@
 {
   "deno.enable" : false,
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "javascript",
-    "css"
+    "javascript"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/page.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/images\/image-slideshow.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/images\/image-slideshow.module.css",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/page.module.css"
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/main-header.js",
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/nav-link.js"
   ],
   "workspace.preview_type" : "custom",
   "workspace.preview_url" : "localhost:3000"
