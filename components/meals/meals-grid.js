@@ -5,7 +5,7 @@ export default function MealsGrid({ meals }) {
   return (
     <>
       <ul className={classes.meals}>
-        <ul>
+        
           {meals.map((meal) => (
             <li key={meals.id}>
               <MealItem {...meal}/>
@@ -13,7 +13,7 @@ export default function MealsGrid({ meals }) {
             </li>
           ))}
 
-        </ul>
+        
       </ul>
     </>
   );
