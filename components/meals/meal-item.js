@@ -5,6 +5,8 @@ import classes from './meal-item.module.css';
 
 export default function MealItem({ title, slug, image, summary, creator }) {
   return (
+    <>
+    <h1>{title}</h1>
     <article className={classes.meal}>
       <header>
         <div className={classes.image}>
@@ -21,6 +23,6 @@ export default function MealItem({ title, slug, image, summary, creator }) {
           <Link href={`/meals/${slug}`}>View Details</Link>
         </div>
       </div>
-    </article>
+    </article></>
   );
 }
