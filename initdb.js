@@ -123,7 +123,7 @@ const dummyMeals = [
     slug: 'wiener-schnitzel',
     image: '/images/schnitzel.jpg',
     summary:
-      'Crispy, golden-brown breaded veal cutlet, a classic Austrian dish.',
+      'Crispy, golden-brown breaded veggie veal alternative cutlet, a classic Austrian dish.',
     instructions: `
       1. Prepare the veal:
          Pound veal cutlets to an even thickness.
