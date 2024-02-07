@@ -1,17 +1,11 @@
 {
   "deno.enable" : false,
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "javascript",
-    "css"
+    "javascript"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/main-header.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/main-header\/nav-link.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/page.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/meals-grid.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/meal-item.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/meal-item.module.css",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/page.module.css"
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/lib\/meals.js",
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/error.js"
   ],
   "workspace.preview_type" : "custom",
   "workspace.preview_url" : "localhost:3000"
