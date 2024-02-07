@@ -6,7 +6,7 @@ import classes from './meal-item.module.css';
 export default function MealItem({ title, slug, image, summary, creator }) {
   return (
     <>
-    <h1 className={classes.title}>{title}</h1>
+    <h1 className={classes.title                  }>{title}</h1>
     <article className={classes.meal}>
       <header>
         <div className={classes.image}>
