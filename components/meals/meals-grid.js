@@ -16,8 +16,6 @@ export default function MealsGrid({ meals }) {
 
             </li>
           ))}
-
-        
       </ul>
     </>
   );
