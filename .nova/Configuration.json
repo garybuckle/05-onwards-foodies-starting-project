@@ -5,7 +5,9 @@
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/lib\/meals.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/error.js"
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/error.js",
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/[mealSlug]\/page.js",
+    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/initdb.js"
   ],
   "workspace.preview_type" : "custom",
   "workspace.preview_url" : "localhost:3000"
