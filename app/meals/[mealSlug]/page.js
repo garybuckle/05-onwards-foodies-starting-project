@@ -1,16 +1,15 @@
-import React from 'react';
-import classes from './page.module.css';
-import Image from 'next/image';
-import { getMeal } from '@/lib/meals';
+import React from 'react'
+import classes from './page.module.css'
+import Image from 'next/image'
+import { getMeal } from '@/lib/meals'
 
 export default function MealDetailsPage({ params }) {
-  const meal = getMeal(params.mealSlug);
-  console.log(meal);
+  const meal = getMeal(params.mealSlug)
   return (
     <>
       <header className={classes.header}>
         <div className={classes.image}>
-          <Image fill />
+          <Image fill alt="" />
         </div>
         <div className={classes.headerText}>
           <h1>{meal.title}</h1>
@@ -22,10 +21,11 @@ export default function MealDetailsPage({ params }) {
         </div>
       </header>
       <main>
-        <p className={classes.instructions}>
-          dangerouslySetInnerHTML{{ __html: '...' }}
-        </p>
+        <p
+          className={classes.instructions}
+          dangerouslySetInnerHTML={{ __html: '...' }}
+        ></p>
       </main>
     </>
-  );
+  )
 }
