@@ -1,13 +1,15 @@
 {
   "deno.enable" : false,
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "javascript"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/lib\/meals.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/error.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/[mealSlug]\/page.js",
-    "\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/initdb.js"
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/page.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/%5BmealSlug%5D\/page.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/%5BmealSlug%5D\/not-found.js"
   ],
   "workspace.preview_type" : "custom",
   "workspace.preview_url" : "localhost:3000"
