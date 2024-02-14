@@ -4,12 +4,17 @@
 
   ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "javascript"
+    "javascript",
+    "css"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/page.js",
     "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/%5BmealSlug%5D\/page.js",
-    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/%5BmealSlug%5D\/not-found.js"
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/%5BmealSlug%5D\/not-found.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/share\/page.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/image-picker.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/image-picker.module.css",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/share\/page.module.css"
   ],
   "workspace.preview_type" : "custom",
   "workspace.preview_url" : "localhost:3000"
