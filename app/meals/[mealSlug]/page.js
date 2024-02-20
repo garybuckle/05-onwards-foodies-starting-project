@@ -2,15 +2,16 @@ import React from 'react';
 import classes from './page.module.css';
 import Image from 'next/image';
 import { getMeal } from '@/lib/meals';
+import NotFound from './not-found.js';
 
 export default function MealDetailsPage({ params }) {
   const meal = getMeal(params.mealSlug);
 
   if (!meal) {
-    notFound();
+    NotFound();
   }
-
-  meal.instructions = meal.instructions.replace(/\n/g, '<br />');
+  // TODO: format instructions
+  // meal.instructions = meal.instructions.replace(/\n/g, '<br />');
   return (
     <>
       <header className={classes.header}>

@@ -7,10 +7,11 @@
     "javascript"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/page.js",
     "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/share\/page.js",
     "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/lib\/actions.js",
-    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/image-picker.js"
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/components\/meals\/image-picker.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/lib\/meals.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/udemy\/05-onwards-foodies-starting-project\/app\/meals\/%5BmealSlug%5D\/page.js"
   ],
   "prettier.format-on-save" : "Global Default",
   "workspace.preview_type" : "custom",
