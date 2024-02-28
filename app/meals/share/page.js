@@ -44,7 +44,7 @@ export default function ShareMealPage() {
           </p>
           <ImagePicker label="your image" name="image" />
           <p className={classes.actions}>
-            <button type="submit">Share Meal</button>
+            <MealsFormSubmit />
           </p>
         </form>
       </main>
