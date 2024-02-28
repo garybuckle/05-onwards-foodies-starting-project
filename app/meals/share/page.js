@@ -2,6 +2,7 @@
 import classes from './page.module.css';
 import ImagePicker from '@/components/meals/image-picker';
 import { shareMeal } from '@/lib/actions';
+import MealsFormSubmit from '../meals-form-submit';
 
 export default function ShareMealPage() {
   return (
